@@ -1,4 +1,3 @@
 ### Для создания кафкой структуры файлов и папок необходимо дать разрешение:
 
-```bash
-echo sudo chmod 777 ./kafka1 ./kafka2 ./kafka3
+`sudo chmod 777 ./kafka1 ./kafka2 ./kafka3`
